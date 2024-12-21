@@ -1,6 +1,6 @@
 <h1 align="center"> RoadMap </h1>
 
-## Study Language
+## 프로그래밍 언어
 <table>
   <tr>
     <td align="center" width="96">
@@ -20,4 +20,8 @@
   </tr>
 </table>
 
+## 알고리즘 
 
+## 정보보안
+
+## 자격증
