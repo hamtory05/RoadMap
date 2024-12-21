@@ -5,6 +5,7 @@
 print("Hello World")
 print("파이썬 시작!")
 
+# 출력 
 >> Hello World
 >> 파이썬 시작!
 ```
@@ -26,6 +27,7 @@ tmp_arr = [tmp_1, tmp_2, tmp_3, tmp_4, tmp_5, tmp_6, tmp_7]
 for result in tmp_arr:
   print(result)
 
+# 출력
 >> 5
 >> 6
 >> 0.6666666666666666
