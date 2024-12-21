@@ -5,9 +5,15 @@
 print("Hello World")
 print("파이썬 시작!")
 
+# print() 함수의 두번째 인자에 아무 값도 넣지 않으면 '\n'가 자동으로 입력됨.
+# 만약 한 줄로 출력하고 싶다면
+print("Hello World", end = " ")
+print("파이썬 시작!")
+
 # 출력 값
 >> Hello World
 >> 파이썬 시작!
+>> Hello World 파이썬 시작!
 ```
 
 ### 변수 선언
