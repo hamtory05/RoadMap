@@ -57,10 +57,6 @@ tmp_6 = 2 ** 3  # 제곱 연산자
 n1, n2 = 2, 3
 tmp_7 = n1 + n2
 
-tmp_arr = [tmp_1, tmp_2, tmp_3, tmp_4, tmp_5, tmp_6, tmp_7]
-for result in tmp_arr:
-  print(result)
-
 # 출력 값
 >> 5
 >> 6
@@ -69,4 +65,11 @@ for result in tmp_arr:
 >> 2
 >> 8
 >> 5
+```
+
+##
+
+### 중첩 연산자
+``` python
+
 ```
