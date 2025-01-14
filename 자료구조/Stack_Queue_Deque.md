@@ -1,6 +1,6 @@
 <h1 align = "center"> Stack  Queue  Deque</h1>
 
-## STACK (스택)
+## Stack (스택)
 * 데이터를 쌓아 올린 형태의 자료구조
 * 후입 선출 구조 (LIFO : Last In First Out) : 마지막에 삽입된 자료가 먼저 삭제되는 구조
 * append : 삽입 연산, pop : 삭제 연산
