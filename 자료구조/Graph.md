@@ -13,17 +13,23 @@
 * 노드(Node)라고도 함
 * Node 표현 : A - B - C
 
+<br>
+
 ### 간선 (Edge)
 * 정점과 정점을 연결하는 선
 * 간선에 방향성이 있는 경우 >> 방향 그래프 (Directed Graph)
 * 간선에 방향성이 없는 경우 >> 무방향 그래프 (Undirected Graph)
 * Edge 표현 : (A, B), (B, C)
 
+<br>
+
 ### 경로
 * 경로 : 정점과 간선으로 이어지는 연결
 * 단순 경로 : Node를 최대 한 번만 지나는 경로
 * Cycle : 시작과 끝의 Node가 같은 경로
 * DAG(Directed Acycle Graph) : 방향성이 있고 사이클이 없는 그래프
+
+<br>
 
 ### 방향 그래프
 * 간선(Edge)에 방향이 없는 그래프
