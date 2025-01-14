@@ -1,4 +1,4 @@
-<h2 align = "center"> Stack & Queue </h2>
+<h1 align = "center"> Stack  Queue  Deque</h1>
 
 ## STACK (스택)
 * 데이터를 쌓아 올린 형태의 자료구조
