@@ -313,8 +313,3 @@ explore_all_nodes(adjacency_list)
 # Node 5 is connected to: [2, 5]
 
 ```
-=======
-
-
-```
->>>>>>> 8148e6f82dd133e5d5bed2dab5a2283e0c03ff91
